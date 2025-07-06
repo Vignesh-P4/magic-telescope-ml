@@ -3,7 +3,7 @@
 
 This project uses machine learning to classify gamma ray vs hadron events based on data from the MAGIC gamma-ray telescope. It includes data preprocessing, model training, evaluation, and a deployable Streamlit app.
 
-![Streamlit App Screenshot](https://github.com/Vignesh-P4/magic-telescope-ml/raw/main/images/app_screenshot.png)
+![Streamlit App Screenshot](https://github.com/Vignesh-P4/magic-telescope-ml/blob/main/Screenshot%202025-07-06%20165233.png)
 
 ---
 
