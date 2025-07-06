@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔭 Gamma vs Hadron Classification (MAGIC Telescope Data)
 
 This ML project uses real telescope data to classify cosmic particles as **gamma rays** or **hadrons**.
@@ -16,3 +17,6 @@ This ML project uses real telescope data to classify cosmic particles as **gamma
 ## ▶️ Run Streamlit App
 ```bash
 streamlit run app/streamlit_app.py
+=======
+# magic-telescope-ml
+>>>>>>> 5c803d5b6c9c804227e50205c08991b2d0771f9c
