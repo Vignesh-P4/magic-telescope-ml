@@ -122,7 +122,7 @@ It is used by the Streamlit app to make real-time predictions.
 ## 👨‍💻 Author
 
 **Vignesh Pobbathi**  
-📫 [GitHub](https://github.com/Vignesh-P4) | [LinkedIn]([https://www.linkedin.com/in/vignesh-p4](https://www.linkedin.com/in/vigneshpobbathi/))
+📫 [GitHub](https://github.com/Vignesh-P4) | [LinkedIn](https://www.linkedin.com/in/vigneshpobbathi/)
 
 ---
 
