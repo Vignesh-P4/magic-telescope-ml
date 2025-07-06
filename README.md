@@ -1,1 +1,0 @@
-# magic-telescope-ml
